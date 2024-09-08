@@ -1,0 +1,3 @@
+/home/chenzixuan/raft-java/raft-java-core/src/test/java/com/github/wenweihu86/raft/storage/SnapshotTest.java
+/home/chenzixuan/raft-java/raft-java-core/src/test/java/com/github/wenweihu86/raft/util/RaftUtilsTest.java
+/home/chenzixuan/raft-java/raft-java-core/src/test/java/com/github/wenweihu86/raft/storage/SegmentedLogTest.java

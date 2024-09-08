@@ -1,0 +1,3 @@
+com/github/wenweihu86/raft/storage/SegmentedLogTest.class
+com/github/wenweihu86/raft/storage/SnapshotTest.class
+com/github/wenweihu86/raft/util/RaftUtilsTest.class
