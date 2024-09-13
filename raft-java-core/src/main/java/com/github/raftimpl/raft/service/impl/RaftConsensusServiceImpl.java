@@ -145,6 +145,8 @@ public class RaftConsensusServiceImpl implements RaftConsensusService {
                 return responseBuilder.build();
             }
 
+            // TODO: handle the case where the leader's prevLogIndex is less than the follower's
+
             if (request.getEntriesCount() == 0) {
                 LOG.debug("heartbeat request from peer={} at term={}, my term={}",
                         request.getServerId(), request.getTerm(), raftNode.getCurrentTerm());
